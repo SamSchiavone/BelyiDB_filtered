@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 FEB 2020 13:57
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 FEB 2020 13:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**/Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-3221-4211-g0-a.t
+**/Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-3221-4211-g0-c.t
 ex
 
-(/Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-3221-4211-g0-a.te
+(/Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-3221-4211-g0-c.te
 x
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -243,11 +243,11 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
-runsystem(uname -s > "8T49-[6,6,4]-62-3221-4211-g0-a.w18")...executed.
+runsystem(uname -s > "8T49-[6,6,4]-62-3221-4211-g0-c.w18")...executed.
 
 
-(./8T49-[6,6,4]-62-3221-4211-g0-a.w18)
-runsystem(rm -- "8T49-[6,6,4]-62-3221-4211-g0-a.w18")...executed.
+(./8T49-[6,6,4]-62-3221-4211-g0-c.w18)
+runsystem(rm -- "8T49-[6,6,4]-62-3221-4211-g0-c.w18")...executed.
 
 )
 \c@app@runs=\count118
@@ -295,8 +295,8 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count123
 \@thisrulewidth=\dimen155
 )
-No file 8T49-[6,6,4]-62-3221-4211-g0-a.aux.
-\openout1 = `8T49-[6,6,4]-62-3221-4211-g0-a.aux'.
+No file 8T49-[6,6,4]-62-3221-4211-g0-c.aux.
+\openout1 = `8T49-[6,6,4]-62-3221-4211-g0-c.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -311,9 +311,9 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 260.
+(Font)              <7> on input line 261.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 260.
+(Font)              <5> on input line 261.
 
 Overfull \hbox (53.33856pt too wide) in paragraph at lines 420--421
  [] 
@@ -322,16 +322,16 @@ Overfull \hbox (53.33856pt too wide) in paragraph at lines 420--421
 [1
 
 ]
-(/Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-3221-4211-g0-a.au
+(/Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-3221-4211-g0-c.au
 x) ) 
 Here is how much of TeX's memory you used:
  8024 strings out of 493706
  145289 string characters out of 6145769
- 222444 words of memory out of 5000000
+ 222420 words of memory out of 5000000
  11283 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  39i,5n,55p,478b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/samschiavone/github/BelyiDB/portraits/8T49-[6,6,4]-62-
-3221-4211-g0-a.pdf (1 page).
+3221-4211-g0-c.pdf (1 page).
