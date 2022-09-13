@@ -8,7 +8,6 @@
     write.m
     generate.m
     sanity_checks.m
-    polredabs_jv.m
     polredabs.m
     galois_orbits.m
     LLL.m
